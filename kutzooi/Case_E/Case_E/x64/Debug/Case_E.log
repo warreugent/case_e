@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\hoofdgebruiker\Documents\Warre Unief\MA2\Decision Making for Business\kutzooi\Case_E\main.cpp(314,49): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\Users\hoofdgebruiker\Documents\Warre Unief\MA2\Decision Making for Business\kutzooi\Case_E\main.cpp(315,49): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  Case_E.vcxproj -> C:\Users\hoofdgebruiker\Documents\Warre Unief\MA2\Decision Making for Business\kutzooi\Case_E\x64\Debug\Case_E.exe
